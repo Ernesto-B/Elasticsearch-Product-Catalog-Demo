@@ -8,6 +8,8 @@ This project consists of two applications (`app.js` and `appAdvanced.js`) built 
   - [Table of Contents](#table-of-contents)
   - [Prerequisites](#prerequisites)
   - [Usage](#usage)
+  - [Endpoints](#endpoints)
+  - [Explanation of Search Queries](#explanation-of-search-queries)
   - [How Synonyms Works](#how-synonyms-works)
 
 ---
