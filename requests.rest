@@ -1,0 +1,25 @@
+POST http://localhost:3000/products
+Content-Type: application/json
+
+{
+    "id": "2",
+    "name": "24 Inch Panasonic Microwave Pro Max, Sleek Silver",
+    "description": "A product for demonstration purposes",
+    "price": 29.99,
+    "category": "Tech"
+}
+
+###
+
+GET http://localhost:3000/products/search?query=panasonic
+Content-Type: application/json
+
+###
+
+GET http://localhost:3000/products/search
+Content-Type: application/json
+
+###
+
+DELETE http://localhost:3000/products/1
+Content-Type: application/json
